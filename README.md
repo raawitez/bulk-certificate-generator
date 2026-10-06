@@ -23,8 +23,9 @@ This project is built with separation of concerns and horizontal scalability in 
 
 ## 🛠️ Setup & Installation
 
-**1. Clone the repository and configure environment variables**
+### 1. Clone the repository and configure environment variables
+
 ```bash
-git clone [https://github.com/raawitez/bulk-certificate-generator.git](https://github.com/raawitez/bulk-certificate-generator.git)
+git clone https://github.com/raawitez/bulk-certificate-generator.git
 cd bulk-certificate-generator
 cp .env.example .env
